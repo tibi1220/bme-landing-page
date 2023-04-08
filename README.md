@@ -1,11 +1,18 @@
-# BME jegyzeteim
+# BME digitális jegyzeteim
 
-A BME GPK mechatronikai mérnök képzésen oktatott tantárgyakhoz készített jegyzeteim.
+A BME GPK mechatronikai mérnök képzésen oktatott tantárgyakhoz készített
+digitális jegyzeteim, kidolgozásaim, konzultációim szemeszterekre lebontva.
 
 ## 2. félév
 
+- Matematika G2 első zárthelyi konzultáció
+  [[repo](https://github.com/tibi1220/MSZO-G2-1ZH-konzi)]
+  [[prezentáció](https://github.com/tibi1220/MSZO-G2-1ZH-konzi/releases/latest/download/mszo-g2-1zh-eloadas.pdf),
+  [feladatok](https://github.com/tibi1220/MSZO-G2-1ZH-konzi/releases/latest/download/mszo-g2-1zh-feladatok.pdf),
+  [kidolgozás](https://github.com/tibi1220/MSZO-G2-1ZH-konzi/releases/latest/download/mszo-g2-1zh-kidolgozas.pdf)]
 - Korszerű informatikai eszközök vizsga tételek
   [[repo](https://github.com/tibi1220/kie_vizsga)]
+  [később beleolvasztva a mechatronika szigorlatba]
 
 ## 3. félév
 
